@@ -9,8 +9,8 @@ I am a business administrator 👩🏻‍💼  and a software development in pro
 - 📫 Contact: jossvega103@gmail.com.
 - 😄 Pronouns: Joss =).
 - 💛 Lovers: Kitties😼 and Dogs 🐶.
-- ⚡ Fun fact: Dancing 💃🏻, Cooking 👩‍🍳, Home Gardens 🌻🌼🌸, Films 🎟️ and Hiking 🚶🏻‍♀️.
-- 💬 Ask me anything, maybe I can help you
+- ⚡ Fun fact: Dancing 💃🏻| Cooking 👩‍🍳 | Home Gardens 🌻🌼🌸 | Films 🎟️ | Hiking 🚶🏻‍♀️ |
+- 💬 Ask me anything, maybe I can help you.
 
 ### Connect with me:
 
