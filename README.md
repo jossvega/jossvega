@@ -1,8 +1,6 @@
 ### Hi there, I'm Jocelyn Vega 👋
 
 I am a business administrator 👩🏻‍💼  and a software development in progress 👩🏻‍💻 at Holberton School, Cohort 12 Medellin Colombia 💻.
-<!--
-**jossvega/jossvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working in my developer skill.
 - 🌱 I’m currently learning C and Python.
