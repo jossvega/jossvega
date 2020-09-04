@@ -10,6 +10,8 @@ I am a business administrator 👩🏻‍💼  and a software development in pro
 - 😄 Pronouns: Joss =).
 - 💛 Lovers: Kitties😼 and Dogs 🐶.
 - ⚡ Fun fact: Dancing 💃🏻, Cooking 👩‍🍳, Home Gardens 🌻🌼🌸, Films 🎟️ and Hiking 🚶🏻‍♀️.
+- 💬 Ask me anything, maybe I can help you
+
 ### Connect with me:
 
 [<img align="left" alt="jossvega103 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -24,12 +26,12 @@ I am a business administrator 👩🏻‍💼  and a software development in pro
 [<img align="left" alt="Python" width="26px" src="https://i.imgur.com/WyTZyyA.png"/>][python]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jossvega&layout=compactlayout)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jossvega&layout=compactlayout)](https://github.com/anuraghazra/github-readme-stats)
 [![github stats](https://github-readme-stats.vercel.app/api?username=jossvega&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/jossvega103
