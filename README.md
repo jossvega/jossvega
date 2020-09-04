@@ -6,8 +6,7 @@ I am a business administrator 👩🏻‍💼  and a software development in pro
 - 🌱 I’m currently learning C and Python.
 - 💼 I’m looking for a job as a Jr Full Stack in a startup or tech industry.
 - 🥅 2021 Goals: Get an experience like a developer for industry remotely.
-- 💬 Ask me about ...
-- 📫 How to reach me: jossvega103@gmail.com.
+- 📫 Contact: jossvega103@gmail.com.
 - 😄 Pronouns: Joss =).
 - 💛 Lovers: Kitties😼 and Dogs 🐶.
 - ⚡ Fun fact: Dancing 💃🏻, Cooking 👩‍🍳, Home Gardens 🌻🌼🌸, Films 🎟️ and Hiking 🚶🏻‍♀️.
@@ -20,6 +19,7 @@ I am a business administrator 👩🏻‍💼  and a software development in pro
 
 ### Languages and Tools:
 
+[<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>][C]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://i.imgur.com/WyTZyyA.png"/>][python]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
@@ -34,6 +34,8 @@ I am a business administrator 👩🏻‍💼  and a software development in pro
 [twitter]: https://twitter.com/jossvega103
 [linkedin]: https://www.linkedin.com/in/jocelyn-vega-0b638b101/
 [vscode]: https://code.visualstudio.com
+[C]: https://en.cppreference.com/w/c
 [python]: https://www.python.org
 [mongodb]: https://www.mongodb.com
 [git]: https://git-scm.com
+
