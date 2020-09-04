@@ -26,12 +26,12 @@ I am a business administrator 👩🏻‍💼  and a software development in pro
 [<img align="left" alt="Python" width="26px" src="https://i.imgur.com/WyTZyyA.png"/>][python]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jossvega&layout=compactlayout)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jossvega&layout=compactlayout)](https://github.com/anuraghazra/github-readme-stats)
 [![github stats](https://github-readme-stats.vercel.app/api?username=jossvega&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/jossvega103
