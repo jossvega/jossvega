@@ -30,7 +30,6 @@ I am a business administrator 👩🏻‍💼  and a software development in pro
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jossvega&layout=compactlayout)](https://github.com/anuraghazra/github-readme-stats)
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=jossvega&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/jossvega103
