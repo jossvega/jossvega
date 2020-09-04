@@ -25,10 +25,10 @@ I am a business administrator 👩🏻‍💼  and a software development in pro
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://i.imgur.com/WyTZyyA.png"/>][python]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jossvega&layout=compactlayout)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-<br />
+
 
 ---
 
