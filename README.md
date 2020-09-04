@@ -29,7 +29,7 @@ I am a business administrator 👩🏻‍💼  and a software development in pro
 
 ---
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=jossvega&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=jossvega&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/jossvega103
 [linkedin]: https://www.linkedin.com/in/jocelyn-vega-0b638b101/
