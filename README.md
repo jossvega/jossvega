@@ -1,4 +1,4 @@
-### Hi there, I'm Jocelyn Vega 👋
+### Hi there, I'm Jocelyn Vega 👋 ![ViewCount](https://views.whatilearened.today/views/github/jossvega/jossvega.svg?cache=remove)
 
 I am a business administrator 👩🏻‍💼  and a software development in progress 👩🏻‍💻 at Holberton School, Cohort 12 Medellin Colombia 💻.
 
