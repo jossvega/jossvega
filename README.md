@@ -3,8 +3,8 @@
 I am a business administrator 👩🏻‍💼  and a software development in progress 👩🏻‍💻 at Holberton School, Cohort 12 Medellin Colombia 💻.
 
 - 🔭 I’m currently working in my developer skill.
-- 🌱 I’m currently learning C and Python.
-- 💼 I’m looking for a job as a Jr Full Stack in a startup or tech industry.
+- 🌱 I’m currently learning Mysql, DevOps, Python and QA Testing.
+- 💼 I’m looking for a job as a Jr Project Manager, Scrum Master or QA tester in a startup or tech industry.
 - 🥅 2021 Goals: Get an experience like a developer for industry remotely.
 - 📫 Contact: jossvega103@gmail.com.
 - 😄 Pronouns: Joss =).
