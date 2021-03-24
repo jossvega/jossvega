@@ -1,6 +1,6 @@
 ### Hi there, I'm Jocelyn Vega 👋 ![ViewCount](https://views.whatilearened.today/views/github/jossvega/jossvega.svg?cache=remove)
 
-I am a business administrator 👩🏻‍💼  and a software development in progress 👩🏻‍💻 at Holberton School, Cohort 12 Medellin Colombia 💻.
+I am a business administrator 👩🏻‍💼  and a FullStack Software Developer 👩🏻‍💻.
 
 - 🔭 I’m currently working in my developer skill.
 - 🌱 I’m currently learning Mysql, DevOps, Python and QA Testing.
