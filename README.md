@@ -4,7 +4,7 @@ I am a business administrator 👩🏻‍💼  and a FullStack Software Develope
 
 - 🔭 I’m currently working in my developer skill.
 - 🌱 I’m currently learning Mysql, DevOps, Python and QA Testing.
-- 💼 I’m looking for a job as a Jr Project Manager, Scrum Master or QA tester in a startup or tech industry.
+- 💼 I’m looking for a job as a Jr Project Manager, Scrum Master or DevOps in a startup or tech industry.
 - 🥅 2021 Goals: Get an experience like a developer for industry remotely.
 - 📫 Contact: jossvega103@gmail.com.
 - 😄 Pronouns: Joss =).
